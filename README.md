@@ -1,8 +1,4 @@
 # SD-Project_Submission-SportsHub
-Here's a professional and complete `README.md` file for your project **SportsHub – Community Sports Facility Management System**, suitable for GitHub or academic submission:
-
----
-
 # 🏟️ SportsHub
 
 ### Community Sports Facility Management System
