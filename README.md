@@ -1,8 +1,4 @@
 # SD-Project_Submission-SportsHub
-Here's a professional and complete `README.md` file for your project **SportsHub – Community Sports Facility Management System**, suitable for GitHub or academic submission:
-
----
-
 # 🏟️ SportsHub
 
 ### Community Sports Facility Management System
@@ -51,7 +47,7 @@ All code for the frontend and backend, including configuration files and documen
 
 ## 📂 Project Artifacts
 
-### 4.1 📈 Scrum Methodology Artifacts
+### 📈 Scrum Methodology Artifacts
 
 The team followed the **Scrum** framework throughout the project, with clear artifacts representing our Agile workflow:
 
@@ -90,7 +86,7 @@ Each of the four sprints includes:
 
 ---
 
-### 4.2 📑 Additional Project Artifacts
+### 📑 Additional Project Artifacts
 
 #### 📅 Project Plan
 
