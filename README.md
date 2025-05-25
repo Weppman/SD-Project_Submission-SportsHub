@@ -43,7 +43,7 @@ The deployed production version of the platform.
 All code for the frontend, including configuration files.
 **📁 [GitHub Repo](https://github.com/Weppman/SD-Project-SportsManagement.git)**
 
-### 💻 API Repository
+### 🖥️ API Repository
 
 All code for the backend, including configuration files.
 **📁 [GitHub API Repo](https://github.com/Weppman/SportsFacilityAPI.git)**
@@ -51,8 +51,10 @@ All code for the backend, including configuration files.
 ## 👥 Email Account
 
 Generic Admin Google Account for testing:
-**📁 Email: sportshubmoderator@gmail.com
-     Password: ABcd1234
+
+📧 Email: sportshubmoderator@gmail.com
+
+🔐 Password: ABcd1234
 
 ---
 
