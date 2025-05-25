@@ -48,6 +48,12 @@ All code for the frontend, including configuration files.
 All code for the backend, including configuration files.
 **📁 [GitHub API Repo](https://github.com/Weppman/SportsFacilityAPI.git)**
 
+## 👥 Email Account
+
+Generic Admin Google Account for testing:
+**📁 Email: sportshubmoderator@gmail.com
+     Password: ABcd1234
+
 ---
 
 ## 📂 Project Artifacts
