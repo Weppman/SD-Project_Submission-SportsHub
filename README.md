@@ -40,8 +40,13 @@ The deployed production version of the platform.
 
 ### 💻 GitHub Repository
 
-All code for the frontend and backend, including configuration files and documentation.
+All code for the frontend, including configuration files.
 **📁 [GitHub Repo](https://github.com/Weppman/SD-Project-SportsManagement.git)**
+
+### 💻 API Repository
+
+All code for the backend, including configuration files.
+**📁 [GitHub API Repo](https://github.com/Weppman/SportsFacilityAPI.git)**
 
 ---
 
